@@ -226,4 +226,40 @@ span{
 .port-pic{
     padding: 10px;
 }
-   
+.newslatter-section{
+    background-color: antiquewhite;
+    text-align: center;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+.newslatter-heading{
+    background-image: url(imageall/Group\ 61.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 150px;
+    padding-bottom: 50px;
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.newslatter-description{
+    color: #474747;
+    font-size: 14px; 
+    margin-bottom: 50px;
+}
+.btn-email{
+    border-radius: 50px 0 0 50px;
+    border: 0;
+    padding: 10px 25px;
+    font-size: 16px;
+}
+.btn-submit{
+    background-color: #FF0000;
+    color: #FFffff;
+    border: 0;
+    border-radius: 0 50px 50px 0;
+    padding: 10px 25px;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+} 
